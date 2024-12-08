@@ -4,13 +4,6 @@
 
 The **Email Content Classifier** is a Streamlit app that automatically classifies email contents into categories like **Priority**, **Updates**, **Promotions**, etc., using Zero-Shot Classification with Hugging Face's `facebook/bart-large-mnli` model.
 
-## Demo
-
-### Interface for Uploading CSV File
-![1](https://github.com/user-attachments/assets/e69295e0-ead3-4d14-9088-ddd6e258a825)
-
-### Classified Email Results
-![2](https://github.com/user-attachments/assets/374d8100-6a1d-40f2-b0a4-e46147d042ab)
 
 ## Features
 
@@ -25,3 +18,9 @@ The **Email Content Classifier** is a Streamlit app that automatically classifie
 3. **Classify:** Click **Classify** to categorize emails.
 4. **Download:** Download the classified results as a CSV file.
 
+## Demo
+### Interface for Uploading CSV File
+<img src="https://github.com/user-attachments/assets/e69295e0-ead3-4d14-9088-ddd6e258a825" width="750"/>
+
+### Classified Email Results
+<img src="https://github.com/user-attachments/assets/374d8100-6a1d-40f2-b0a4-e46147d042ab" width="750"/>
